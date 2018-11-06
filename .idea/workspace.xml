@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca1eb6b0-cfe5-4084-968d-f37329b72570" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Hello.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca1eb6b0-cfe5-4084-968d-f37329b72570" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,7 +274,7 @@
       <option name="presentableId" value="Default" />
       <updated>1541501393486</updated>
       <workItem from="1541501394907" duration="3457000" />
-      <workItem from="1541514428806" duration="19000" />
+      <workItem from="1541514428806" duration="566000" />
     </task>
     <task id="LOCAL-00001" summary="just add String message">
       <created>1541506993284</created>
@@ -297,11 +294,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3476000" />
+    <option name="totallyTimeSpent" value="4023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="229" width="1920" height="981" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
